@@ -1,6 +1,6 @@
 # Aplikasi Penyortiran Buku
 
-Ini adalah repository project UAS mata kuliah PBO Kelompok 1 Informatika 2024D.
+Ini adalah repository project UAS mata kuliah PBO Kelompok 3 Informatika 2024D.
 
 ### Anggota Kelomppok
 - Muhammad Khadimas (https://github.com/kadhimass)
